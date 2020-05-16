@@ -1,0 +1,7 @@
+Name, Distribution
+video_times.csv,"pareto(b=3.86, loc=-0.00, scale=0.00)"
+video_lengths.csv,"beta(a=398.22, b=0.90, loc=-50058.15, scale=51564.15)"
+forum_lengths.csv,"rdist(c=0.92, loc=786.37, scale=732.37)"
+forum_times.csv,"expon(loc=0.0000, scale=0.0108)"
+editing_times.csv,"pareto(b=1.6457, loc=-0.0032, scale=0.0032)"
+editing_lengths.csv,"gamma(a=0.1321, loc=60.0000, scale=470.5967)"
